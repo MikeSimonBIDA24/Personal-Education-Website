@@ -65,7 +65,7 @@ input[type="submit"] {
 	border-radius: 8px;
 }
 #delBtn{
-	background: rbg(255,255,0 );
+	background-color: rbg(255,255,0 );
 	color: rbg(255,0,0);
 }
 label{
